@@ -1,1 +1,3 @@
-nltk=3.6.2
+wordnet
+snowball_data
+punkt
